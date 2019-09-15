@@ -1,15 +1,28 @@
-# hello-world
-First GitHub Respository: ABOUT ME
+# hello-world 
+First Ever GitHub Repository: A little about me, how I found coding (UPDATED 9/14/19)
+--------------------------------------------------------------------------------------
+Hey everyone! My name is Brad, and I'm a junior at the University of Montana studying Computer Science. 
 
-Here's some background on me!
+As you may have read in my short bio, I'm originally from a little town called Kalispell in the Flathead Valley. In 7th grade, I moved to a closeby town called Columbia Falls where I stayed for several years. I've also recently lived in northern California and east Texas. 
 
-I'm a young computer science student from the beautiful Flathead Valley in Montana. Currently living in East TX, with plans to be in CA. Things outside of tech & the programming realm that I enjoy include fitness, health & nutrition, finance & economics, philosophy, sports, and church on Sundays. Extra note on the sports mention: I'm an avid fan of the Los Angeles Lakers & Green Bay Packers.
+I graduated from Columbia Falls High School in the summer of 2016, after which I went on to complete an Associate of Science at Flathead Valley Community College in the spring of 2018. 
 
-I found my interest and desire to pursue programming by somewhat of dumb luck going into my second year of college. After graduating high school I went straight to the local community college without a sense of direction, being told that "it's okay" to not have it figured out yet (it isn't). Since I hadn't declared a major, I spent my first year filling general course requirements--none of them related to programming. After that year, I knew it was time to get serious about committing to a career path. And like lots of people my age, I was scared. But even so, I knew that I had always enjoyed mathematics and consistently excelled in them. So why not see where math could take me? I set up a meeting with my advisor. There, Her and I narrowed it down to either engineering or computer science.
+Some things I don't want to live without include good workouts, good views, good company, the Good Book, and my beautiful fiancee Alicia. If you've got the Packers or Lakers on TV I'll be over as soon as possible with drinks & snacks in hand.
 
-Engineering didn't gain any traction with me from the start--and that's no offense. On the other hand, I figured that studying computer science was a powerful and promising path to take. This not only because of the influence technology has in today's world (it's everywhere & growing), but also considering the opportunity for creative expression that is offered with programming. An unignorable part of me has always really wanted to create things.
 
-Trusting my thoughts on the seemingly towering decision, I declared a computer science major and began taking the offered courses my second year. I was booked for both semesters with all the math and programming courses I could take--AND I LOVED IT. I really have to give thanks in big part to the passions from two amazing professors in math and computer science, as it was from them my passion was born. Thought I'm unfortunately not attending college at this time, I'm excited to continue learning as much as I can to become the best programmer & mathematician that I can possibly be.
+If (you are curious how I found myself in love with coding) keep reading;
+-------------------------------------------------------------------------
+Funny, it was actually in a complete stumble upon which I found programming. 
 
-I hope this read helps you get to know me, and I'm excited to get to know you all! 
-Hello world!
+I had nothing to do with a single line of code before my sophomore year in college - well, unless you count opening up Chrome DevTools and changing website headings to profanity as a freshman in high school, that is. 
+
+This is because there wasn't much of a tech influence in the area where I grew up, so there were no course offerings at my high school, and I never found it on my own. It wasn't until going into my second year of college, when I had no clue what I was going to pursue for a career, that my academic advisor presented me with two choices: engineering or computer science. Math had always come easy to me, so these were the paths she recommended I choose from. It was then, after going on a little intuition, that I made one of the best decisions of my life and declared a major in computer science. Sorry engineering majors, I promise it's nothing personal.
+
+Since then, I've been doing my best to keep learning and become well rounded. Not only in the beginnings of my career, but in all aspects of life in general.
+
+Thanks for taking a moment to read more about me, I'd love to know more about you!
+Feel free to reach out anytime via my email or Discord: braddeibert#8671
+
+Lastly, hello GitHub world!!!
+
+# TL;DR I'm from a small town in Montana. I stumbled upon coding as a college sophomore and have been loving it ever since.
